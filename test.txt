@@ -1,1 +1,7 @@
 test.txt
+total 20
+drwxrwxr-x 3 tiagotrocoli tiagotrocoli 4096 Out 29 09:54 .
+drwxrwxr-x 3 tiagotrocoli tiagotrocoli 4096 Out 29 09:22 ..
+drwxrwxr-x 8 tiagotrocoli tiagotrocoli 4096 Out 29 09:54 .git
+-rw-rw-r-- 1 tiagotrocoli tiagotrocoli   14 Out 29 09:54 TestRemote.txt
+-rw-rw-r-- 1 tiagotrocoli tiagotrocoli    9 Out 29 09:33 test.txt
