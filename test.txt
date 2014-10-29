@@ -1,4 +1,4 @@
-test.txt
+Vai da merda
 total 20
 drwxrwxr-x 3 tiagotrocoli tiagotrocoli 4096 Out 29 09:54 .
 drwxrwxr-x 3 tiagotrocoli tiagotrocoli 4096 Out 29 09:22 ..
